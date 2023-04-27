@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Faiyaz C#\Simple TTS\Simple TTS\bin\Debug\Simple TTS.exe.config
+C:\Users\user\Documents\Faiyaz C#\Simple TTS\Simple TTS\bin\Debug\Simple TTS.exe
+C:\Users\user\Documents\Faiyaz C#\Simple TTS\Simple TTS\bin\Debug\Simple TTS.pdb
+C:\Users\user\Documents\Faiyaz C#\Simple TTS\Simple TTS\obj\Debug\Simple TTS.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Faiyaz C#\Simple TTS\Simple TTS\obj\Debug\Simple TTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Faiyaz C#\Simple TTS\Simple TTS\obj\Debug\Simple_TTS.Form1.resources
+C:\Users\user\Documents\Faiyaz C#\Simple TTS\Simple TTS\obj\Debug\Simple_TTS.Properties.Resources.resources
+C:\Users\user\Documents\Faiyaz C#\Simple TTS\Simple TTS\obj\Debug\Simple TTS.csproj.GenerateResource.cache
+C:\Users\user\Documents\Faiyaz C#\Simple TTS\Simple TTS\obj\Debug\Simple TTS.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Faiyaz C#\Simple TTS\Simple TTS\obj\Debug\Simple TTS.exe
+C:\Users\user\Documents\Faiyaz C#\Simple TTS\Simple TTS\obj\Debug\Simple TTS.pdb
